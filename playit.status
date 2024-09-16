@@ -1,1 +1,466 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
+MSG: Failed to setup tunnel client
+Error: RequestError(TooManyRequests)
+[2J8[0mtunnel running[2J8[0mplayit (v0.15.22): 1726450993318 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451008409 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451011479 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451026630 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451029698 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451044813 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451047881 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451062988 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451066075 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451081291 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451084351 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451099448 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451102507 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451105570 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451120672 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451123749 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451138855 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451141920 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451157014 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451160073 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451175173 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451178231 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451193318 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451196391 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451211478 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451214536 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451229631 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451232685 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451235754 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451250844 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451253912 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451256979 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451272076 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451275134 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451290236 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451293303 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451308390 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451311499 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451314563 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451329682 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451332737 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451347834 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451362927 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451378034 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451381087 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451384150 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451399252 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451402321 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451417514 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451432601 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451435674 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451438736 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451453827 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451456893 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451471984 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451475047 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451478120 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451481178 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451484232 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451499330 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451502387 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451505457 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451508520 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451523610 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451526672 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451529731 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451544828 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451547889 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451550947 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451554002 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
+[2J8[0mplayit (v0.15.22): 1726451569090 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451572149 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451575211 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.22): 1726451578321 tunnel running, 1 tunnels registered
+
+
+TUNNELS
+rooms-door.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mGot Error
+MSG: Failed to load latest tunnels
+Error: ClientError(TooManyRequests)
